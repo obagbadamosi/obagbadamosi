@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @obagbadamosi
-- 👀 I’m interested in Java, Spring Boot, Vaadin.
+- 👀 Stack: Java, Spring Boot,Spring Data JPA, Vaadin, Azure, SQL, C#.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on Java EE open Source projects
-- 📫 Reachable at obalolugbadamosi@gmail.com
+- 📫 Reachable at obagbadamosi@gmail.com
 
 <!---
 obagbadamosi/obagbadamosi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
